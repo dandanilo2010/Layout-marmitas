@@ -1,0 +1,35 @@
+body{
+    background-image: url(./src/background-269933_960_720.jpg);
+    font-family: "Oxanium", cursive;
+}
+
+.cardapio{
+    text-align: center;
+    color: white;
+}
+
+.imagem{
+    width: 400px;
+    margin: 20px;
+}
+
+.titulo{
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border-bottom: 2px solid gray;
+    width: 100%;
+    text-align: center;
+}
+
+.logo{
+    width: 30px;
+}
+
+.telefone{
+    text-align: center;
+}
+
+h3{
+    color: white;
+}
